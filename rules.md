@@ -22,7 +22,7 @@ SEPTEMBER 2ND, 2021.
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## About
-The #100DaysOfCode challenge is a journey to gaining skills in the programming world. I have chosen to master Python by building 100 projects in 100 days with Angela Yu's Udemy course in "[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)". I will be uploading all my progress to my [log](log.md). I will also be posting daily updates on my Twitter: [SMore_eehoward](https://twitter.com/SMore_eehoward)
+The #100DaysOfCode challenge is a journey to gaining skills in the programming world. I have chosen to master Python by building 100 projects in 100 days with Angela Yu's Udemy course in "[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)" and [MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2021a/home) using the recommended book. I will be uploading all my progress to my [log](log.md). I will also be posting daily updates on my Twitter: [SMore_eehoward](https://twitter.com/SMore_eehoward)
 
 
 
