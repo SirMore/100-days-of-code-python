@@ -1,13 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: September 02, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today was review of the very basic python stuff. I reviewed print and input statements, manipulations of strings and variables.\
+I have created a program generating a band name from user inputs.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Very easy topics treated but a good starting point for this exciting journey of the challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Band Name Generator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_001/band_name_generator.py)
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
