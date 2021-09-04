@@ -17,7 +17,7 @@ I have created a program generating a band name from user inputs.
 
 **Thoughts:** I really have a great time going through the material and building the tip calculator app. I am planning on creating a mobile version of it. 
 
-**Link to work:** [Band Name Generator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_002/tip_calculator.py)
+**Link to work:** [Tip Calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_002/tip_calculator.py)
 
 
 
