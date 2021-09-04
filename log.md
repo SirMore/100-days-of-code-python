@@ -11,6 +11,16 @@ I have created a program generating a band name from user inputs.
 **Link to work:** [Band Name Generator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_001/band_name_generator.py)
 
 
+### Day 2: September 03, 2021
+
+**Today's Progress**: Still going through the basics. Today I reviewed the major data types (str, int, float, bool) in python, mathematical operators using the PEMDAS_LR, rounding, formatting and F-Strings.
+
+**Thoughts:** I really have a great time going through the material and building the tip calculator app. I am planning on creating a mobile version of it. 
+
+**Link to work:** [Band Name Generator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_002/tip_calculator.py)
+
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
