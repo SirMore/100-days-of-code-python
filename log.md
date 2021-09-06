@@ -20,7 +20,7 @@ I have created a program generating a band name from user inputs.
 **Link to work:** [Tip Calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_002/tip_calculator.py)
 
 
-### Day 3: February 04, 2021
+### Day 3: September 04, 2021
 
 **Today's Progress**: Today I reviewed conditional statements, comparison and logical operators, code block and scope.
 
