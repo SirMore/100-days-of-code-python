@@ -20,6 +20,17 @@ I have created a program generating a band name from user inputs.
 **Link to work:** [Tip Calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_002/tip_calculator.py)
 
 
+### Day 3: February 04, 2021
+
+**Today's Progress**: Today I reviewed conditional statements, comparison and logical operators, code block and scope.
+
+**Thoughts** It was interesting to use nested if/elif/else statements, multiple if statements. I had fun building the [leap year calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/leap.png), love_calculator and [treasure_island](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload) games. Good revision of functions like lower() and count() and how to include [ASCII art](https://ascii.co.uk/art) with print('''     ''''). 
+
+**Link(s) to work** [Leap year calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/leap_year_calculator.py), [Love Calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/love_calculator.py), [Treasure Island](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/treasure_island.py)
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
