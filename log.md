@@ -29,6 +29,16 @@ I have created a program generating a band name from user inputs.
 **Link(s) to work** [Leap year calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/leap_year_calculator.py), [Love Calculator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/love_calculator.py), [Treasure Island](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_003/treasure_island.py)
 
 
+### Day 4: September 05, 2021
+
+**Today's Progress**: Today I worked on randomization and python lists. I reviewed the random module and some of its functions (random(), randint(), choice(),...) and used lists and nested lists.
+
+**Thoughts** Great content and I am happy to have built a Rock Paper Scissors game to play against the computer.
+
+**Link(s) to work** [Rock Paper Scissors](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_004/rock_paper_scissors.py)
+
+
+
 
 
 
