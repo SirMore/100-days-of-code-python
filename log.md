@@ -38,6 +38,17 @@ I have created a program generating a band name from user inputs.
 **Link(s) to work** [Rock Paper Scissors](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_004/rock_paper_scissors.py)
 
 
+### Day 5: September 06, 2021
+
+**Today's Progress**: Today I reviewed the For loop, the range function, random function and code blocks.
+
+**Thoughts** I built a very useful password generator using list comprehension, loops, random.shuffle(*list*), and ''.join(*list*).
+
+**Link(s) to work** [PyPassword Generator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_005/password_generator.py)
+
+
+
+
 
 
 
