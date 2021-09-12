@@ -47,6 +47,21 @@ I have created a program generating a band name from user inputs.
 **Link(s) to work** [PyPassword Generator](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_005/password_generator.py)
 
 
+### Day 6: September 07, 2021
+
+**Today's Progress**: Today I covered Python functions, code blocks and the While loop.
+
+**Thoughts** I really enjoy the Reeborg Maze debugging cases. This was very challenging especially the random walls challenging.
+
+**Link(s) to work** [Reeborg's Maze](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_006/reeborg_maze.py) 
+
+![Alt Text](https://github.com/SirMore/100-days-of-code-python/blob/master/Projects/Day_006/ezgif.com-video-to-gif.gif)
+
+
+
+
+
+
 
 
 
