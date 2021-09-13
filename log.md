@@ -59,6 +59,21 @@ I have created a program generating a band name from user inputs.
 
 
 
+### Day 7: March 3, 2021
+
+**Today's Progress**: Today I successfully built a hangman game with Python.
+
+**Thoughts** The game was very fun and allowed me to go over some topics that had already been reviewed in the first 6 days: modules, loops, conditional and math operators, and list comprehension.
+
+**Link(s) to work** [Hangman Game](https://github.com/SirMore/100-days-of-code-python/tree/master/Projects/Day_007)
+
+
+
+
+
+
+
+
 
 
 
