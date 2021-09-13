@@ -59,7 +59,7 @@ I have created a program generating a band name from user inputs.
 
 
 
-### Day 7: March 3, 2021
+### Day 7: September 08, 2021
 
 **Today's Progress**: Today I successfully built a hangman game with Python.
 
