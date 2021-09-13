@@ -32,7 +32,7 @@ while not game_is_finished:
 
     #Use the clear() function imported from replit to clear the output between guesses.
     clear()
-
+#
     if guess in display:
         print(f"You've already guessed {guess}")
 
