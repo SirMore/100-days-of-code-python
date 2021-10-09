@@ -69,7 +69,13 @@ I have created a program generating a band name from user inputs.
 
 
 
+### Day 8: September 09, 2021
 
+**Today's Progress**: Today I reviewed python functions with inputs.
+
+**Thoughts** I have built a great Caesar Cipher app to encode and decode meassages.
+
+**Link(s) to work** [Caesar Cipher](https://github.com/SirMore/100-days-of-code-python/tree/master/Projects/Day_008)
 
 
 
