@@ -78,6 +78,14 @@ I have created a program generating a band name from user inputs.
 **Link(s) to work** [Caesar Cipher](https://github.com/SirMore/100-days-of-code-python/tree/master/Projects/Day_008)
 
 
+### Day 9: September 10, 2021
+
+**Today's Progress**: Today I reviewed Python dictionaries and nesting.
+
+**Thoughts** I have built an auction program.
+
+**Link(s) to work** [Auction Program](https://github.com/SirMore/100-days-of-code-python/tree/master/Projects/Day_009)
+
 
 
 
