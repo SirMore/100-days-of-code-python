@@ -1,4 +1,4 @@
-rom art import logo
+from art import logo
 import random
 
 # import only system from os 
