@@ -88,6 +88,19 @@ I have created a program generating a band name from user inputs.
 
 
 
+### Day 10: September 11, 2021
+
+**Today's Progress**: Today I went over Python functions with outputs and recursion.
+
+**Thoughts** I have built a calculator program.
+ 
+**Link(s) to work** [Calculator Program](https://github.com/SirMore/100-days-of-code-python/tree/master/Projects/Day_010)
+
+
+
+
+
+
 
 
 
